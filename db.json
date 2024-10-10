@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "category": "Overview",
+    "checklists": [
+      {
+        "id": 97,
+        "question": "RFP mô tả về hệ thống gì ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 579,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 98,
+        "question": "Objective đối với lần request này là gì ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 580,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 99,
+        "question": "Mô tả chung về yêu cầu lần này là gì ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 581,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 100,
+        "question": "Hệ thống là phát triển mới hay phát triển tiếp hệ thống đã có ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 582,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 101,
+        "question": "Có các lưu ý gì đặc biệt không ? Nếu có cụ thể là gì ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 583,
+          "question": null,
+          "isSelected": false
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Input từ khách hàng",
+    "checklists": [
+      {
+        "id": 102,
+        "question": "Khách hàng có cung cấp Requirement Definition không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 584,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 103,
+        "question": "Khách hàng có cung cấp Basic Design không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 585,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 104,
+        "question": "Khách hàng có cung cấp Detail Design không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 586,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 105,
+        "question": "Khách hàng có cung cấp Source code không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 587,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 106,
+        "question": "Khách hàng có cung cấp Function list không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 588,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 107,
+        "question": "Khách hàng có cung cấp Wire Frame/UIUX Design không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 589,
+          "question": null,
+          "isSelected": false
+        }
+      },
+      {
+        "id": 108,
+        "question": "Khách hàng có cung cấp thông tin hạ tầng triển khai không ?",
+        "answer": "",
+        "hasAnswer": true,
+        "note": "",
+        "questionAndAnswer": {
+          "id": 590,
+          "question": null,
+          "isSelected": false
+        }
+      }
+    ]
+  }
+]
