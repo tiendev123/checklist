@@ -37,15 +37,6 @@
         }
       },
       {
-        "id": 163,
-        "question": "Các yêu cầu chức năng có được mô tả chi tiết không? Cụ thể các chức năng đó là gì ?",
-        "answer": "Dự án yêu cầu phát triển một hệ thống quản lý toàn diện, bao gồm các tính năng sau: Quản lý thông tin cư dân, Theo dõi bảo trì và hiệu quả, Quản lý hợp đồng thuê nhà",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
         "id": 164,
         "question": "Độ ưu tiên các tính năng có được mô tả hay chưa ?",
         "answer": "",
@@ -115,15 +106,6 @@
         }
       },
       {
-        "id": 171,
-        "question": "Có yêu cầu về tính ổn định (stability) và độ tin cậy (reliability) không? Nếu có thì cụ thể là gì ? ",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
         "id": 172,
         "question": "Có yêu cầu về khả năng mở rộng (scalability) không? Cụ thể là gì ?",
         "answer": "",
@@ -168,24 +150,6 @@
         "questionAndAnswer": {
         }
       },
-      {
-        "id": 177,
-        "question": "Có yêu cầu về sao lưu và phục hồi (backup and recovery) không? Cụ thể là gì ?",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
-        "id": 178,
-        "question": "Có yêu cầu về khả năng hoạt động trong các môi trường khác nhau (cross-environment operation) không? Cụ thể là gì ?",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      }
     ]
   },
   {
@@ -195,15 +159,6 @@
       {
         "id": 179,
         "question": "Thời gian dự án được yêu cầu là bao lâu?",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
-        "id": 180,
-        "question": "Có kế hoạch cụ thể cho các giai đoạn của dự án không? Cụ thể là gì ?",
         "answer": "",
         "hasAnswer": true,
         "note": "",
@@ -237,24 +192,6 @@
       {
         "id": 183,
         "question": "Có yêu cầu về các chứng chỉ hoặc đào tạo đặc biệt không? Cụ thể là gì ?",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
-        "id": 184,
-        "question": "Có yêu cầu về cấu trúc tổ chức đội ngũ không? Cụ thể là gì ?",
-        "answer": "",
-        "hasAnswer": true,
-        "note": "",
-        "questionAndAnswer": {
-        }
-      },
-      {
-        "id": 185,
-        "question": "Có yêu cầu về sự phối hợp giữa các nhóm hoặc các bên liên quan không? Cụ thể là gì ?",
         "answer": "",
         "hasAnswer": true,
         "note": "",
