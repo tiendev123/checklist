@@ -9,80 +9,545 @@
           "category": "Overview",
           "questions": [
             {
-              "id": 69,
+              "id": 149,
               "question": "Mục tiêu kinh doanh cụ thể mà dự án này hướng tới là gì?",
               "answer": "answer 1",
               "note": "note 1",
-              "isSelected": false
+              "subQuestions": [
+                {
+                  "id": 218,
+                  "question": "Ước tính số lượng User? sfsdf",
+                  "answer": "new answer",
+                  "note": "new note",
+                  "questionAndAnswer": {
+                    "id": 1160,
+                    "question": "new Q&A",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1092,
+                "question": "Q&A 1",
+                "isSelected": false
+              }
             },
             {
-              "id": 70,
+              "id": 150,
               "question": "Ai sẽ là người dùng chính của hệ thống này ?",
               "answer": "",
               "note": "",
-              "isSelected": false,
               "subQuestions": [
                 {
-                  "id": 71,
+                  "id": 151,
                   "question": "Hành vi người dùng được hình dung sẽ như thế nào?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1094,
+                    "question": "",
+                    "isSelected": false
+                  },
+                  "subQuestions": [
+                    {
+                      "id": 217,
+                      "question": "Ước tính số lượng User? sfsdf",
+                      "answer": "new answer",
+                      "note": "new note",
+                      "questionAndAnswer": null
+                    }
+                  ]
                 },
                 {
-                  "id": 72,
+                  "id": 152,
                   "question": "Ước tính số lượng User sẽ sử dụng hệ thống là bao nhiêu ?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1095,
+                    "question": "",
+                    "isSelected": false
+                  }
                 }
-              ]
+              ],
+              "questionAndAnswer": {
+                "id": 1093,
+                "question": "",
+                "isSelected": false
+              }
             },
             {
-              "id": 73,
+              "id": 153,
               "question": "Thời gian phát triển dự án được yêu cầu trong bao lâu ?",
               "answer": "",
               "note": "",
-              "isSelected": false,
               "subQuestions": [
                 {
-                  "id": 74,
+                  "id": 154,
                   "question": "Các giai đoạn phát triển của dự án đang được định nghĩa như thế nào ?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1097,
+                    "question": "",
+                    "isSelected": false
+                  }
                 },
                 {
-                  "id": 75,
+                  "id": 155,
                   "question": "Có thời hạn cụ thể cho từng mốc quan trọng (milestones) không? Cụ thể là gì ?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1098,
+                    "question": "",
+                    "isSelected": false
+                  }
                 },
                 {
-                  "id": 76,
+                  "id": 156,
                   "question": "Có yêu cầu về chi phí cho bảo trì và hỗ trợ sau triển khai không? Cụ thể là gì ?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1099,
+                    "question": "",
+                    "isSelected": false
+                  }
                 }
-              ]
+              ],
+              "questionAndAnswer": {
+                "id": 1096,
+                "question": "",
+                "isSelected": false
+              }
             },
             {
-              "id": 77,
+              "id": 157,
               "question": "Có yêu cầu đối với phạm vi công việc cần thực hiện cụ thể bao gồm các công đoạn nào ? VD: Design, Development, Testing,…",
               "answer": "",
               "note": "",
-              "isSelected": false,
               "subQuestions": [
                 {
-                  "id": 78,
+                  "id": 158,
                   "question": "Có yêu cầu về bảo trì và hỗ trợ (maintenance and support) không? Cụ thể là gì ?",
                   "answer": "",
                   "note": "",
-                  "isSelected": false
+                  "questionAndAnswer": {
+                    "id": 1101,
+                    "question": "",
+                    "isSelected": false
+                  }
                 }
-              ]
+              ],
+              "questionAndAnswer": {
+                "id": 1100,
+                "question": "",
+                "isSelected": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Project Type",
+      "subCategories": [
+        {
+          "id": 4,
+          "category": "Loại Project",
+          "questions": [
+            {
+              "id": 159,
+              "question": "Loại project cần thực hiện lần này là gì ?(Ví dụ: Phát triển mới, Upate tính năng, Upgrade/Migration,…)",
+              "answer": "",
+              "note": "",
+              "questionAndAnswer": {
+                "id": 1102,
+                "question": "",
+                "isSelected": false
+              }
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "New Development",
+          "questions": [
+            {
+              "id": 160,
+              "question": "Hệ thống phát triển mới lần này có dựa trên một hệ thống nào có sẵn hay chưa ?",
+              "answer": "",
+              "note": "",
+              "subQuestions": [
+                {
+                  "id": 161,
+                  "question": "Hệ thống cũ này có đang vận hành hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1104,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 162,
+                  "question": "Hệ thống cũ đang là Web App hay Mobile App ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1105,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 163,
+                  "question": "Tính năng chính hệ thống đang có là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1106,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 164,
+                  "question": "Có cần thực hiện data migration từ hệ thống cũ lên hệ thống mới hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1107,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 165,
+                  "question": "Mô tả hạ tầng (Infrastructure) hệ thống đang có là gì?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1108,
+                    "question": "",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1103,
+                "question": "",
+                "isSelected": false
+              }
+            },
+            {
+              "id": 166,
+              "question": "Ứng dụng phát triển lần này có bao gồm Web Application không?",
+              "answer": "",
+              "note": "",
+              "subQuestions": [
+                {
+                  "id": 167,
+                  "question": "Ngôn ngữ phát triển cụ thể khách hàng yêu cầu là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1110,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 168,
+                  "question": "Các Web browser khách hàng yêu cầu cần support là gì ? ",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1111,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 169,
+                  "question": "Có thực hiện phát triển Responsive hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1112,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 170,
+                  "question": "Các size màn hình cụ thể cần support là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1113,
+                    "question": "",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1109,
+                "question": "",
+                "isSelected": false
+              }
+            },
+            {
+              "id": 171,
+              "question": "Ứng dụng phát triển lần này bao gồm Mobile Application không ? ",
+              "answer": "",
+              "note": "",
+              "subQuestions": [
+                {
+                  "id": 172,
+                  "question": "Phát triển Native App hay Cross platform ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1115,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 173,
+                  "question": "Có thực hiện phát triển cho IOS không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1116,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 174,
+                  "question": "Có thực hiện phát triển cho Androi không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1117,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 175,
+                  "question": "Các version thiết bị mobile cần support là gì? (iOS 17,18, Android 5,6)",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1118,
+                    "question": "",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1114,
+                "question": "",
+                "isSelected": false
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "Improve/Enhancement",
+          "questions": [
+            {
+              "id": 176,
+              "question": "Hệ thống đã có được mô tả như thế nào ? ",
+              "answer": "",
+              "note": "",
+              "subQuestions": [
+                {
+                  "id": 177,
+                  "question": "Hệ thống cũ này có đang được sử dụng hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1120,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 178,
+                  "question": "Hệ thống cũ đang là Web App hay Mobile App ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1121,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 179,
+                  "question": "Ngôn ngữ được sử dụng để phát triển hệ thống đã có là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1122,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 180,
+                  "question": "Tính năng chính hệ thống đang có là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1123,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 181,
+                  "question": "Tính năng cần phát triển Update là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1124,
+                    "question": "",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1119,
+                "question": "",
+                "isSelected": false
+              }
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "Upgrade/Migration",
+          "questions": [
+            {
+              "id": 182,
+              "question": "Hệ thống đã có được mô tả như thế nào ? ",
+              "answer": "",
+              "note": "",
+              "subQuestions": [
+                {
+                  "id": 183,
+                  "question": "Hệ thống cũ này có đang được sử dụng hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1126,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 184,
+                  "question": "Hệ thống cũ đang là Web App hay Mobile App ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1127,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 185,
+                  "question": "Ngôn ngữ được sử dụng để phát triển hệ thống đã có là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1128,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 186,
+                  "question": "Tính năng chính hệ thống đang có là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1129,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 187,
+                  "question": "Tính năng cần phát triển Update là gì ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1130,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 188,
+                  "question": "Framework cũ đã sử dụng phát triển là gì ? ",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1131,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 189,
+                  "question": "Hệ thống mới có thay đổi về Framework hay không ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1132,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 190,
+                  "question": "Yêu cầu Migration về Database là gì ? ",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1133,
+                    "question": "",
+                    "isSelected": false
+                  }
+                },
+                {
+                  "id": 191,
+                  "question": "Hệ điều hành hệ thống đã sử dụng là vì ? VD: Windows, Ubuntu ?",
+                  "answer": "",
+                  "note": "",
+                  "questionAndAnswer": {
+                    "id": 1134,
+                    "question": "",
+                    "isSelected": false
+                  }
+                }
+              ],
+              "questionAndAnswer": {
+                "id": 1125,
+                "question": "",
+                "isSelected": false
+              }
             }
           ]
         }
