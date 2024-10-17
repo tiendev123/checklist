@@ -1,76 +1,67 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "category": "Overview",
-      "subCategories": [
-        {
-          "id": 2,
-          "category": "Overview",
-          "questions": [
-            {
-              "id": 149,
-              "question": "Mục tiêu kinh doanh cụ thể mà dự án này hướng tới là gì?",
-              "answer": "answer 1",
-              "note": "note 1",
-              "subQuestions": [
-                {
-                  "id": 218,
-                  "question": "Ước tính số lượng User? sfsdf",
-                  "answer": "new answer",
-                  "note": "new note",
-                  "subQuestions":[],
-                  "questionAndAnswer": {
-                    "id": 1160,
-                    "question": "new Q&A",
-                    "isSelected": false
-                  }
+  "data":[
+  {
+    id: 1,
+    category: 'Overview',
+    subCategories: [
+      {
+        id: 2,
+        category: 'Overview',
+        questions: [
+          {
+            id: 149,
+            question: 'Mục tiêu kinh doanh cụ thể mà dự án này hướng tới là gì?',
+            answer: 'answer 1',
+            note: 'note 1',
+            isSelected: false,
+            subQuestions: [
+              {
+                id: 218,
+                question: 'Ước tính số lượng User? sfsdf',
+                answer: 'new answer',
+                note: 'new note',
+                subQuestions: [],
+                isSelected: false,
+                questionAndAnswer: {
+                  id: 1160,
+                  questions: 'new Q&A',
+                  isSelected: false,
                 },
-                 {
-                  "id": 56,
-                  "question": "Ước tính số lượng User? sfsdf",
-                  "answer": "new answer",
-                  "note": "new note",
-                  "subQuestions":[],
-                  "questionAndAnswer": {
-                    "id": 1160,
-                    "question": "new Q&A",
-                    "isSelected": false
-                  }
-                }
-              ],
-              "questionAndAnswer": {
-                "id": 1092,
-                "question": "Q&A 1",
-                "isSelected": false
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "category": "Project Type",
-      "subCategories": [
-        {
-          "id": 4,
-          "category": "Loại Project",
-          "questions": [
-            {
-              "id": 159,
-              "question": "Loại project cần thực hiện lần này là gì ?(Ví dụ: Phát triển mới, Upate tính năng, Upgrade/Migration,…)",
-              "answer": "",
-              "note": "",
-              "questionAndAnswer": {
-                "id": 1102,
-                "question": "",
-                "isSelected": false
-              }
-            }
-          ]
-        }
-      ]
-    }
-  ]
+              },
+              {
+                id: 56,
+                question: 'Ước tính số lượng User? sfsdf',
+                answer: 'new answer',
+                note: 'new note',
+                subQuestions: [],
+                isSelected: false,
+                questionAndAnswer: {
+                  id: 1160,
+                  questions: 'new Q&A',
+                  isSelected: false,
+                },
+              },
+            ],
+            questionAndAnswer: {
+              id: 1092,
+              questions: 'new Q&A',
+              isSelected: false,
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 3,
+    category: 'Project Type',
+    subCategories: [
+      {
+        id: 4,
+        category: 'Loại Project',
+        questions: [],
+      }
+    ]
+  }
+]
 }
